@@ -1,31 +1,31 @@
-# [Project Name] 🎯
+# [STUDY_PLANNER] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Darkside]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Hridhya T B] - [SIMAT]
+- Member 2: [Haritha K V] - [SIMAT]
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[this would give you a perfect study time planner accordingly. it would also make deadline warnings]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[time management]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[a good study time planner with regular breaks or refreshment. also guarantees 8 hours sleep]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [python,html]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
